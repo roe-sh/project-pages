@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\addcourses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{064820FA-4919-4439-A428-679BFE581910}|addcourses\\addcourses.csproj|C:\\Users\\Orange\\source\\repos\\addcourses\\addcourses\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064820FA-4919-4439-A428-679BFE581910}|addcourses\\addcourses.csproj|solutionrelative:addcourses\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064820FA-4919-4439-A428-679BFE581910}|addcourses\\addcourses.csproj|c:\\users\\orange\\source\\repos\\addcourses\\addcourses\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{064820FA-4919-4439-A428-679BFE581910}|addcourses\\addcourses.csproj|solutionrelative:addcourses\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064820FA-4919-4439-A428-679BFE581910}|addcourses\\addcourses.csproj|C:\\Users\\Orange\\source\\repos\\addcourses\\addcourses\\sb-admin-2.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{064820FA-4919-4439-A428-679BFE581910}|addcourses\\addcourses.csproj|solutionrelative:addcourses\\sb-admin-2.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064820FA-4919-4439-A428-679BFE581910}|addcourses\\addcourses.csproj|C:\\Users\\Orange\\source\\repos\\addcourses\\addcourses\\courses.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{064820FA-4919-4439-A428-679BFE581910}|addcourses\\addcourses.csproj|solutionrelative:addcourses\\courses.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064820FA-4919-4439-A428-679BFE581910}|addcourses\\addcourses.csproj|C:\\Users\\Orange\\source\\repos\\addcourses\\addcourses\\bootstrap.bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{064820FA-4919-4439-A428-679BFE581910}|addcourses\\addcourses.csproj|solutionrelative:addcourses\\bootstrap.bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064820FA-4919-4439-A428-679BFE581910}|addcourses\\addcourses.csproj|C:\\Users\\Orange\\source\\repos\\addcourses\\addcourses\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{064820FA-4919-4439-A428-679BFE581910}|addcourses\\addcourses.csproj|solutionrelative:addcourses\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "courses.txt",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\addcourses\\addcourses\\courses.txt",
+              "RelativeDocumentMoniker": "addcourses\\courses.txt",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\addcourses\\addcourses\\courses.txt",
+              "RelativeToolTip": "addcourses\\courses.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-08T20:28:33.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sb-admin-2.min.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\addcourses\\addcourses\\sb-admin-2.min.css",
+              "RelativeDocumentMoniker": "addcourses\\sb-admin-2.min.css",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\addcourses\\addcourses\\sb-admin-2.min.css",
+              "RelativeToolTip": "addcourses\\sb-admin-2.min.css",
+              "ViewState": "AQIAAN0OAAAAAAAAAAAuwOgOAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-08T20:26:13.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bootstrap.bundle.min.js",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\addcourses\\addcourses\\bootstrap.bundle.min.js",
+              "RelativeDocumentMoniker": "addcourses\\bootstrap.bundle.min.js",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\addcourses\\addcourses\\bootstrap.bundle.min.js",
+              "RelativeToolTip": "addcourses\\bootstrap.bundle.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-08T20:26:01.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "jquery.min.js",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\addcourses\\addcourses\\jquery.min.js",
+              "RelativeDocumentMoniker": "addcourses\\jquery.min.js",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\addcourses\\addcourses\\jquery.min.js",
+              "RelativeToolTip": "addcourses\\jquery.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-08T20:25:33.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\addcourses\\addcourses\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "addcourses\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\addcourses\\addcourses\\Default.aspx.cs",
+              "RelativeToolTip": "addcourses\\Default.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:54:24.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\addcourses\\addcourses\\Default.aspx",
+              "RelativeDocumentMoniker": "addcourses\\Default.aspx",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\addcourses\\addcourses\\Default.aspx",
+              "RelativeToolTip": "addcourses\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-08T19:53:57.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
